@@ -1,0 +1,12 @@
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Repository.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Repository.pdb
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Common.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\bin\Debug\Common.pdb
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\obj\Debug\Repository.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Repository\obj\Debug\Repository.pdb

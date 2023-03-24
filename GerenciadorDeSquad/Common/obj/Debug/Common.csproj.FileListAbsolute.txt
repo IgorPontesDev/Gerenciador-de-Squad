@@ -1,0 +1,10 @@
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\bin\Debug\Common.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\bin\Debug\Common.pdb
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\obj\Debug\Common.dll
+C:\Users\igor\source\repos\GerenciadorDeSquad\Common\obj\Debug\Common.pdb
